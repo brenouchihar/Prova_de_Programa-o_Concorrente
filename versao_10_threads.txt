@@ -1,0 +1,3 @@
+Tempo: 980 ms
+Válidos: 44161
+Inválidos: 4377650
